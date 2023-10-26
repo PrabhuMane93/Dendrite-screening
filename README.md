@@ -37,3 +37,7 @@ python3 main.py assets/algoparams_from_ui.json assets/iris.csv
 python3 -m notebook
 ```
 > This will launch a jupyter notebook server on localhost. Open screening_test.ipynb
+
+* Output
+> The output should look something like this:
+<img width="902" alt="output" src="https://github.com/PrabhuMane93/Dendrite-screening/assets/86148520/4847f9bf-c160-423e-8859-c4e949b4fff9">
